@@ -1,15 +1,15 @@
-body{text-align: center; background-color: #DDDDDD; background-image: url(file:../bg/MSN-hole-bg-small200-pale.png); height:100%;}
-
 @font-face {   font-family: MainText;   src: url(file:../font/lmroman12-regular.otf); }
 @font-face {   font-family: MainTextBold;   src: url(file:../font/lmroman12-bold.otf); }
 @font-face {   font-family: MainTextItalic;   src: url(file:../font/lmroman12-italic.otf); }
-
-form, select, option, input, select, textarea, body, table, tr, td, div, span {font-family: "LM Roman 12",MainText,Arial,Verdana,Helvetica,Geneva,sans-serif; text-align:justify; color: #000000;}
 
 a:link    { color: #24248F; }
 a:visited { color: #2929A3; }
 a:active  { color: #990033; }
 a:hover   { color: #990033; }
+
+body{text-align: center; background-image: url(file:../bg/MSN-hole-bg-small200-pale.png); background-color: #DDDDDD; height:100%;}
+
+form, select, option, input, select, textarea, body, table, tr, td, div, span {font-family: "LM Roman 12",MainText,Arial,Verdana,Helvetica,Geneva,sans-serif; text-align:justify; color: #000000;}
 
 img.inline {
              display: inline;
