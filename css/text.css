@@ -7,7 +7,7 @@ a:visited { color: #2929A3; }
 a:active  { color: #990033; }
 a:hover   { color: #990033; }
 
-body{text-align: center; background-image: url(file:"../bg/MSN-hole-bg-small200-pale.png"); background-color: #DDDDDD; height:100%;}
+body{text-align: center; background-image: url("../bg/MSN-hole-bg-small200-pale.png"); background-color: #DDDDDD; height:100%;}
 
 form, select, option, input, select, textarea, body, table, tr, td, div, span {font-family: "LM Roman 12",MainText,Arial,Verdana,Helvetica,Geneva,sans-serif; text-align:justify; color: #000000;}
 
