@@ -1,6 +1,6 @@
-@font-face {   font-family: MainText;   src: url(file:../font/lmroman12-regular.otf); }
-@font-face {   font-family: MainTextBold;   src: url(file:../font/lmroman12-bold.otf); }
-@font-face {   font-family: MainTextItalic;   src: url(file:../font/lmroman12-italic.otf); }
+@font-face {   font-family: MainText;   src: url("../font/lmroman12-regular.otf"); }
+@font-face {   font-family: MainTextBold;   src: url("../font/lmroman12-bold.otf"); }
+@font-face {   font-family: MainTextItalic;   src: url("../font/lmroman12-italic.otf"); }
 
 a:link    { color: #24248F; }
 a:visited { color: #2929A3; }
